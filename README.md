@@ -1,9 +1,9 @@
 ## Laporan Minggu Ketiga
 
-#Deskripsi Proyek
+# Deskripsi Proyek
 Web administrasi sekolah yang dirancang oleh tim kami digunakan untuk mengelola suatu data sekolah baik terdiri dari data siswa, data guru, data pembayaran SPP maupun jadwal pelajaran guru atau siswa. Sistem ini ditujukan untuk mempermudan pihak sekolah dalam mengelola data administrasi sekolah serta meningkatkan efektivitas dan efesiensi data yang ada. Pada sistem ini  juga memungkinkan sekolah untuk meminimalisir kesalahan data yang ada dikarenakan terdapat fitur CRUD dan fitur interaktif lainnya yang mudah dan membantu mengolah data dengan baik dan benar.Web ini juga disajikan dalam tampilan yang menarik serta responsif untuk berbagai perangkat yang digunakan 
 
-##Cara Instalasi dan penggunaan
+## Cara Instalasi dan penggunaan
 
 A. Cara Instalasi
   1. Salin link Github berikut di browser :
