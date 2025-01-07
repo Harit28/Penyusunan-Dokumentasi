@@ -1,0 +1,7 @@
+super admin
+username: Cap Kaki 3
+password: 123
+
+admin
+username: Pingki, Harit, Marhaby, Faris, Rio (Pilih salah satu nama user)
+password: 1234
